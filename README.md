@@ -1,4 +1,4 @@
-## Reaction Graph: Towards Reaction-Level Modeling for Chemical Reactions with 3D Structures
+## [ICML 2025] Reaction Graph: Towards Reaction-Level Modeling for Chemical Reactions with 3D Structures
 Website: http://molecule-factory.com/
 
 Checkpoints: https://huggingface.co/reactiongraph/ReactionGraph
