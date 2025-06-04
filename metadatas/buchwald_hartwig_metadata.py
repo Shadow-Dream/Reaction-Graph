@@ -1,0 +1,20 @@
+BUCHWALD_HARTWIG_METADATA = {
+    "atom_list": ['C','N','O','F','P','S','Cl','Br','Pd','I'],
+    "charge_list": [0],
+    "degree_list":  [1, 2, 3, 4, 5],
+    "hybridization_list": ['SP2','SP3','SP3D','UNSPECIFIED'],
+    "hydrogen_list": [1, 2, 3, 0],
+    "valence_list": [1, 2, 3, 4, 5, 6, 0],
+    "ringsize_list":[3, 4, 5, 6, 7, 8],
+    "bond_list": ['SINGLE', 'DOUBLE', 'AROMATIC'],
+    "atom_dim":10,
+    "charge_dim":0,
+    "degree_dim":4,
+    "hybridization_dim":2,
+    "hydrogen_dim":3,
+    "valence_dim":5,
+    "bond_dim":3,
+    "use_3d": False,
+    "must_have_3d_position": True,
+    "calculate_3d_position_max_attempts": 100
+}

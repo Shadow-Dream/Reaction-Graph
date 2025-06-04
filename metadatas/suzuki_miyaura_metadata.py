@@ -1,0 +1,20 @@
+SUZUKI_MIYAURA_METADATA = {
+    "atom_list": ['Cs', 'Cl', 'O', 'K', 'B', 'S', 'P', 'Na', 'C', 'I', 'Br', 'Li', 'N', 'Fe', 'Pd', 'F'],
+    "charge_list": [-1, 0, 1, 2],
+    "degree_list":  [1, 2, 3, 4, 0],
+    "hybridization_list": ['SP', 'SP2', 'SP3', 'SP3D', 'S'],
+    "hydrogen_list": [1, 2, 3, 0],
+    "valence_list": [1, 2, 3, 4, 5, 6, 0],
+    "ringsize_list":[3, 4, 5, 6, 7, 8],
+    "bond_list": ['SINGLE', 'DOUBLE', 'TRIPLE', 'AROMATIC'],
+    "atom_dim":16,
+    "charge_dim":3,
+    "degree_dim":4,
+    "hybridization_dim":4,
+    "hydrogen_dim":3,
+    "valence_dim":5,
+    "bond_dim":4,
+    "use_3d": False,
+    "must_have_3d_position": True,
+    "calculate_3d_position_max_attempts": 100
+}

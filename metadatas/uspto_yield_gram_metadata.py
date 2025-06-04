@@ -1,0 +1,20 @@
+USPTO_YIELD_GRAM_METADATA = {
+    "atom_list": ['Br', 'Eu', 'I', 'Ru', 'Au', 'Si', 'F', 'Na', 'Fe', 'Xe', 'Sb', 'Hf', 'V', 'Co', 'Ta', 'C', 'Tl', 'Yb', 'Gd', 'Mn', 'Li', 'Rb', 'Be', 'Cs', 'Cu', 'Mo', 'La', 'Nd', 'S', 'Pd', 'Re', 'Ir', 'Sr', 'O', 'Rh', 'Ni', 'Ca', 'W', 'P', 'Ar', 'K', 'H', 'Pt', 'Ag', 'Al', 'Te', 'Sn', 'Zn', 'Hg', 'In', 'Sc', 'Zr', 'B', 'Mg', 'As', 'Sm', 'Pr', 'Ge', 'Ga', 'Ba', 'Ce', 'Se', 'Cl', 'Bi', 'Cd', 'Pb', 'Ti', 'Y', 'Cr', 'Os', 'Dy', 'N'],
+    "charge_list": [-4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6],
+    "degree_list":  [1, 2, 3, 4, 5, 6, 7, 0],
+    "hybridization_list": ['SP','SP2','SP3','SP3D','SP3D2','S','UNSPECIFIED'],
+    "hydrogen_list": [1, 2, 3, 4, 0],
+    "valence_list": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 0],
+    "ringsize_list": [3, 4, 5, 6, 7, 8],
+    "bond_list": ['SINGLE', 'DOUBLE', 'TRIPLE', 'AROMATIC'],
+    "atom_dim":72,
+    "charge_dim":11,
+    "degree_dim":8,
+    "hybridization_dim":7,
+    "hydrogen_dim":5,
+    "valence_dim":13,
+    "bond_dim":4,
+    "use_3d": False,
+    "must_have_3d_position": True,
+    "calculate_3d_position_max_attempts": 100
+}

@@ -1,0 +1,21 @@
+USPTO_TPL_METADATA = {
+    "atom_list": ["H","Er","Th","Lu","Ga","Mg","Au","Sr","Ru","Cd","Ir","At","Y","Br","V","Pb","S","Pd","Ca","As","K","In","Al","Be","Tb","Ce","Pt","Bi","Ni","P","U","Gd","Tc","Dy","C","Se","N","Eu","Fe","Rh","Sm","H","Sg","Zn","Mo","Sn","Sc","Cu","Ge","I","O","Ag","Nd","Mn","Sb","Cl","Zr","Hf","Cs","Hg","F","Ti","Re","Ta","Os","Te","Cr","Li","Pr","Xe","W","Co","Yb","B","Na","Tl","Si","Ba","La","Ar"],
+    "charge_list": [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6],
+    "degree_list":  [1, 2, 3, 4, 5, 6, 7, 0],
+    "hybridization_list": ['SP','SP2','SP3','SP3D','SP3D2','S','UNSPECIFIED'],
+    "hydrogen_list": [1, 2, 3, 4, 0],
+    "valence_list": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 0],
+    "ringsize_list":[3, 4, 5, 6, 7, 8],
+    "bond_list": ['SINGLE', 'DOUBLE', 'TRIPLE', 'AROMATIC', 'UNSPECIFIED'],
+    "atom_dim":80,
+    "charge_dim":11,
+    "degree_dim":7,
+    "hybridization_dim":5,
+    "hydrogen_dim":4,
+    "valence_dim":11,
+    "bond_dim":5,
+    "use_3d": True,
+    "must_have_3d_position": True,
+    "calculate_3d_position_max_attempts": 100,
+    "num_types": 1000
+}

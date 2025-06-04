@@ -1,0 +1,20 @@
+DEFAULT_METADATA = {
+    "atom_list": ['Ag','Al','As','B','Bi','Br','C','Cl','Co','Cr','Cu','F','Ge','H','I','In','K','Li','Mg','Mo','N','Na','O','P','Pd','S','Sb','Se','Si','Sn','Te','Zn','Os','Ti','Xe','Ga','Ca','Zr','Gd','Rh','Rb','Ba','Ce','La','Tb', 'V','Mn','Sm','W','Ru','Pt','Tl','Ni','Pb','Cd', 'Y','U','Hf','Fe','Hg','Au'],
+    "charge_list": [-4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6],
+    "degree_list": [1, 2, 3, 4, 5, 6, 7, 0],
+    "hybridization_list": ['SP','SP2','SP3','SP3D','SP3D2','S','UNSPECIFIED'],
+    "hydrogen_list": [1, 2, 3, 4, 0],
+    "valence_list": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 0],
+    "ringsize_list": [3, 4, 5, 6, 7, 8],
+    "bond_list": ['SINGLE', 'DOUBLE', 'TRIPLE', 'AROMATIC'],
+    "atom_dim":61,
+    "charge_dim":10,
+    "degree_dim":7,
+    "hybridization_dim":5,
+    "hydrogen_dim":4,
+    "valence_dim":11,
+    "bond_dim":4,
+    "use_3d": True,
+    "must_have_3d_position": True,
+    "calculate_3d_position_max_attempts": 100
+}
