@@ -136,8 +136,8 @@ def start_train(config, args):
 def start_test(config, args):
     config["experiment_id"] += datetime.now().strftime("_%Y_%m_%d_%H_%M_%S")
     experiment_id = config["experiment_id"]
-    config = json.dumps(config)
     checkpoint = config["checkpoint"]
+    config = json.dumps(config)
     command = ["nohup", "env", "PYTHONPATH=./", 
                 "python", "test.py", 
                 "--dataset",args.dataset,
