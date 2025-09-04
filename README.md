@@ -2,7 +2,7 @@
 
 <div align="center">
   💻 <a href="http://molecule-factory.com/"><strong>Website</strong></a> | 
-  📃 <a href="https://github.com/404"><strong>Paper (Release Soon)</strong></a> | 
+  📃 <a href="https://openreview.net/pdf?id=V6fBMFduGS"><strong>Paper</strong></a> | 
   ⌨ <a href="https://github.com/Shadow-Dream/Reaction-Graph"><strong>Code</strong></a> |
   🥧 <a href="https://huggingface.co/datasets/reactiongraph/ReactionGraph"><strong>Cooked Data</strong></a> | 
   ⛳ <a href="https://huggingface.co/reactiongraph/ReactionGraph"><strong>Checkpoint</strong></a>
@@ -185,7 +185,9 @@ We provide scripts to run our model on the test dataset. The testing experiments
 If our paper has inspired your research or our code has been helpful in your work, we would greatly appreciate it if you could kindly cite our paper!
 
 <!-- ```bibtex
-
+@inproceedings{jianreaction,
+  title={Reaction Graph: Towards Reaction-Level Modeling for Chemical Reactions with 3D Structures},
+  author={Jian, Yingzhao and Zhang, Yue and Wei, Ying and Fan, Hehe and Yang, Yi},
+  booktitle={Forty-second International Conference on Machine Learning}
+}
 ``` -->
-
-> 📌 The BibTeX entry will be made available once the camera-ready version is published. Thank you for your patience!
