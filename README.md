@@ -184,10 +184,10 @@ We provide scripts to run our model on the test dataset. The testing experiments
 ## 📝 Citation
 If our paper has inspired your research or our code has been helpful in your work, we would greatly appreciate it if you could kindly cite our paper!
 
-<!-- ```bibtex
+```bibtex
 @inproceedings{jianreaction,
   title={Reaction Graph: Towards Reaction-Level Modeling for Chemical Reactions with 3D Structures},
   author={Jian, Yingzhao and Zhang, Yue and Wei, Ying and Fan, Hehe and Yang, Yi},
   booktitle={Forty-second International Conference on Machine Learning}
 }
-``` -->
+```
